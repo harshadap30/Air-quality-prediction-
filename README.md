@@ -1,4 +1,4 @@
-# Air Quality Monitoring and Prediction\
+# Air Quality Monitoring and Prediction
 
 This Python script utilizes the OpenAQ API to fetch historical air quality data for a specific city and parameter (e.g., particulate matter PM2.5). It also fetches real-time data for prediction and generates a plot with historical data and a predicted future value.
 
@@ -29,5 +29,7 @@ Replace script_name.py with the actual name of your Python script.
 ### Note
 The script uses the OpenAQ API, and the city parameter should be one of the cities mentioned in the API.
 The parameter variable can be modified based on the specific air quality parameter of interest (e.g., 'pm10', 'co', 'so2').
+
 Ensure an internet connection to fetch data from the OpenAQ API.
-Feel free to explore and visualize air quality trends for different cities!
+
+## Feel free to explore and visualize air quality trends for different cities!
